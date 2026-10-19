@@ -1,5 +1,5 @@
 # ¿Quién eres?
-Soy Daniel López Quispe :v
+Soy **_Daniel López Quispe_** :v
 
 # ¿Qué asignatura te gusta más?
 **Lenguaje de Marcas** e **Ingles**
