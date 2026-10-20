@@ -17,3 +17,6 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 * [LGV](files/LGV.md)
 * [NJG](files/NJG.md)
+* [PGH](files/PGH.md)
+* [RCU](files/rmcu.md)
+* [DLQ](files/DLQ.md)
