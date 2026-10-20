@@ -24,4 +24,7 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [DLQ](files/DLQ.md)
 * [MGC](files/MGC.md)
 * [ARD](files/ARD.md)
+* [DCG](files/DCG.md)
+* [JMG](files/JMG.md)
+* [DPG](files/DPG.md)
 
